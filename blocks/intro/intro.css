@@ -1,0 +1,20 @@
+.intro{
+    margin: 0 148px 92px 148px;
+    max-width: 690px;
+}
+@media screen and (max-width:1024px) {
+    .intro{
+        margin: 0 48px 92px 48px;
+    }
+}
+@media screen and (max-width:768px) {
+    .intro{
+        margin: 0 24px 88px 24px;
+        max-width: 720px;
+    }
+}
+@media screen and (max-width:370px) {
+    .intro{
+        margin: 0 16px 60px 16px;
+    }
+}
