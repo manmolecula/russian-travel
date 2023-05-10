@@ -8,11 +8,12 @@
 }
 @media screen and (max-width:1023px) and (min-width:768px) {
     .place__website {
-        margin: 0 0 0 10px;
+        margin-left: 10px;
     }
 }
 @media screen and (max-width:320px) {
     .place__website{
-        margin: 0 16px;
+        margin-left: 16px;
+        margin-right: 16px;
     }
 }

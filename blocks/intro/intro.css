@@ -4,17 +4,27 @@
 }
 @media screen and (max-width:1024px) {
     .intro{
-        margin: 0 48px 92px 48px;
+        margin-left: 48px;
+        margin-right: 48px;
     }
 }
 @media screen and (max-width:768px) {
     .intro{
-        margin: 0 24px 88px 24px;
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-bottom: 88px;
         max-width: 720px;
     }
 }
 @media screen and (max-width:370px) {
     .intro{
-        margin: 0 16px 60px 16px;
+        margin-left: 16px;
+        margin-right: 16px;
+        margin-bottom: 60px;
+    }
+}
+@media screen and (max-width:320px) {
+    .intro{
+        margin-bottom: 63px;
     }
 }
